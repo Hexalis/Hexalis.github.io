@@ -1,0 +1,8 @@
+OTA for ESP32:
+
+-naredis .bin (.pio/builds/firmware.bin
+-kopiras v mapo za firmware
+-preimenujes v firmware_x.x.x.bin
+-v mapi zazenes "powershell"
+-zazenes: (Get-FileHash .\firmware_X.X.X.bin -Algorithm MD5).Hash.ToLower()
+-kopirac hash v manifest.json
