@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://hexalis.github.io/firmware_1.0.1.bin",
-  "md5": "03bf2e5e0a59a062a41d14ea9305363e"
+  "version": "0.0.8",
+  "url": "https://hexalis.github.io/firmware_0.0.8.bin",
+  "md5": "545aeac14c0151e549e9cd5b3f67a1a8",
+  "force": true
 }
